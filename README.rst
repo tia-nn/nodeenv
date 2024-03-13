@@ -1,6 +1,15 @@
 Node.js virtual environment
 ===========================
 
+----
+
+Difference of original
+----
+
+- [ ] add xonsh support (activate/deactivate)
+
+----
+
 ``nodeenv`` (node.js virtual environment) is a tool to create 
 isolated node.js environments.
 
